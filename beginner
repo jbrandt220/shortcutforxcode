@@ -1,0 +1,18 @@
+Useful Xcode shortcuts for beginners
+
+⌘: Command (Windows)
+⇧ : Shift
+⌃ : Control
+⌥ : Option (Alt)
+
+1. Open quickly (⌘ + ⇧ + O)
+2. Find current file (⌘ + ⇧ + J)
+3. Quick rename (⌘ + ⌃ + E)
+4. Editing multiple lines (⌥)
+Press Option key and drag your cursor around.
+5. Code folding/unfolding (⌘ + ⌥ + Left Arrow[/Right Arrow])
+6. Toggle Navigator (⌘ + 0)
+7. Toggle Inspector (⌘ + ⌃ + ⌥ + 0)
+8. Toggle Debug console (⌘ + ⇧ + Y)
+9. Toggle Mini map (⌘ + ⇧ + ⌃ + M)
+10. Commenting (⌘ + ⌃ + /)
